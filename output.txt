@@ -1,0 +1,6 @@
+Memory Size 1024
+For Input Line 1 : Have No Permission to Read Data !!! 
+For Input Line 2 : Have No Permission to Write Data !!! 
+For Input Line 3 : w
+For Input Line 4 : New value is : d
+For Input Line 5 : Have No Permission to Read Data !!! 
